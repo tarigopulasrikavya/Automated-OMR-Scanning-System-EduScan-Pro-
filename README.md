@@ -1,11 +1,20 @@
+Automated OMR Scanning System
 
-  # Automated OMR Evaluation System
+The Automated OMR Scanning System is designed to simplify and automate the evaluation of answer sheets. Manually correcting papers can be time-consuming and burdensome. This system allows educators to submit all correct answers initially. Then, it scans student answer sheets, compares them with the correct answers, and automatically provides:
 
-  This is a code bundle for Automated OMR Evaluation System. The original project is available at https://www.figma.com/design/90KHNK4u5rL0ZDgvmcOtDV/Automated-OMR-Evaluation-System.
+Correct or wrong evaluation for each question
+Total points scored by the student
+Percentage and overall performance
+Other useful statistics for assessment
 
-  ## Running the code
+Features:
+Upload and store correct answers
+Scan and analyze student answer sheets automatically
+Instant results and scoring
+Reduces manual effort and human error
+Supports testing and evaluation
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Benefits:
+Saves time for teachers and educators
+Provides accurate and quick assessments
+Easy to use and efficient
